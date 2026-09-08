@@ -1,0 +1,16 @@
+{
+  "main": {
+    "runs/confirmatory/bss_overall_macro.csv": "2798203342cb58ee835157e3726cabdc127161ae7988403148e25e8f6bfc635e",
+    "runs/confirmatory/bss_target_study_macro.csv": "15e808aa8c898b72d5dcbe16aabb73063990b8ec5670a8568d4076d41bfa5c4e",
+    "runs/confirmatory/gap_uncertainty.csv": "9aea73cff702cf02641be4dcc61fd9410b413e5f0358ffe8770bc6e6109c2cd4",
+    "runs/final_robustness/clean_macro_bss.csv": "16563c1015c9b02310a32e26d7f1acc096a914a88448827e264c31bfb3e6a7b6",
+    "runs/final_robustness/blocks_macro_bss.csv": "c1c47b92dccb58186f62e4e89d6689102b8adeaadf336d99866cca087f86e0c9",
+    "runs/final_robustness/design_summary.json": "76050294c96c24aeb33bf94bb672b5a382d86b7d1572a38bb6932ec06bbb3d5d",
+    "audit/data_audit.json": "1237e7cb1904fe345913e4111519d28f3c4cdd8b7ee364694b5b3643b4670c28"
+  },
+  "supplementary": {
+    "runs/final_robustness/protcrown_feasibility.json": "e59a141028b6221d799d0b8898687e7e5805484cb303d9a791a2adf268495fee",
+    "runs/confirmatory/known_study_prior_metrics.csv": "1b3f4d820464dfe84b1942137b6567505bc4f997a14dba2c04a016687618817b",
+    "runs/confirmatory/covariate_variance_decomposition.csv": "9ec09d35e31c3cdb2558423c3f8ab96913013a5ddae844b09fb2a100e0e899a4"
+  }
+}

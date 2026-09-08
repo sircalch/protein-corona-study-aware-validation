@@ -1,0 +1,36 @@
+{
+  "status": "INSUFFICIENT_INDEPENDENT_DATA",
+  "np_rows": 662,
+  "np_unique_ids": 662,
+  "np_source_titles": 62,
+  "rpa_rows": 662,
+  "rpa_protein_columns": 178,
+  "rpa_has_sample_id": false,
+  "publication_rows": 77,
+  "protein_feature_rows": 1530,
+  "shared_source_studies_and_rows": [
+    34,
+    480
+  ],
+  "candidate_source_studies_and_rows": [
+    25,
+    168
+  ],
+  "unresolved_source_studies_and_rows": [
+    3,
+    14
+  ],
+  "supporting_information_license": {
+    "value": 10,
+    "name": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "verified_compatible_independent_samples": 0,
+  "zero_is_verified_count_not_proof_none_exist": true,
+  "external_training": false,
+  "limitations": [
+    "RPA workbook lacks sample/study identifiers; same row count is not a validated key",
+    "Shaking feature absent from downloaded metadata; source absence cannot be assumed No",
+    "Source-linked missing/detection rule and independent biological sample provenance unresolved"
+  ]
+}

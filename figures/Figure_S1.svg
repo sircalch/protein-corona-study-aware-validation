@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="413.37pt" height="155.772pt" viewBox="0 0 413.37 155.772" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-07T23:22:53.201413</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 155.772 
+L 413.37 155.772 
+L 413.37 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 133.27452 51.308064 
+L 280.09548 51.308064 
+Q 287.27694 51.308064 287.27694 48.763368 
+L 287.27694 23.599152 
+Q 287.27694 21.054456 280.09548 21.054456 
+L 133.27452 21.054456 
+Q 126.09306 21.054456 126.09306 23.599152 
+L 126.09306 48.763368 
+Q 126.09306 51.308064 133.27452 51.308064 
+z
+" clip-path="url(#pae29e3b2cb)" style="fill: #f1f4f6; stroke: #64717d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 17.57322 105.029424 
+L 124.49718 105.029424 
+Q 131.67864 105.029424 131.67864 102.484728 
+L 131.67864 73.079352 
+Q 131.67864 70.534656 124.49718 70.534656 
+L 17.57322 70.534656 
+Q 10.39176 70.534656 10.39176 73.079352 
+L 10.39176 102.484728 
+Q 10.39176 105.029424 17.57322 105.029424 
+z
+" clip-path="url(#pae29e3b2cb)" style="fill: #ffffff; stroke: #64717d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 153.22302 105.029424 
+L 260.14698 105.029424 
+Q 267.32844 105.029424 267.32844 102.484728 
+L 267.32844 73.079352 
+Q 267.32844 70.534656 260.14698 70.534656 
+L 153.22302 70.534656 
+Q 146.04156 70.534656 146.04156 73.079352 
+L 146.04156 102.484728 
+Q 146.04156 105.029424 153.22302 105.029424 
+z
+" clip-path="url(#pae29e3b2cb)" style="fill: #ffffff; stroke: #64717d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 288.87282 105.029424 
+L 395.79678 105.029424 
+Q 402.97824 105.029424 402.97824 102.484728 
+L 402.97824 73.079352 
+Q 402.97824 70.534656 395.79678 70.534656 
+L 288.87282 70.534656 
+Q 281.69136 70.534656 281.69136 73.079352 
+L 281.69136 102.484728 
+Q 281.69136 105.029424 288.87282 105.029424 
+z
+" clip-path="url(#pae29e3b2cb)" style="fill: #ffffff; stroke: #64717d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(130.188828 33.814706)">PROTCROWN downloaded NP metadata</text>
+    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(146.558633 42.848251)">662 rows | 62 source-title groups</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(59.266231 81.725963)">Shared</text>
+    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(37.01663 89.671129)">34 groups | 480 rows</text>
+    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(56.020583 97.616437)">Excluded</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 204.702082 51.314639 
+Q 138.857845 60.921689 73.898663 70.399604 
+" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 77.508481 71.590911 
+L 73.898663 70.399604 
+L 77.017599 68.226534 
+" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(168.133016 81.725892)">Candidate nonmatching</text>
+    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(172.66643 89.6712)">25 groups | 168 rows</text>
+    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(166.709516 97.616509)">Independence unverified</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 206.685 53.020957 
+Q 206.685 60.917694 206.685 67.920004 
+" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 208.385 64.520004 
+L 206.685 67.920004 
+L 204.985 64.520004 
+" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(323.873784 81.723895)">Unresolved</text>
+    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(312.375714 89.669061)">3 groups | 14 rows</text>
+    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(322.247253 97.618505)">Quarantined</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 208.667918 51.314639 
+Q 274.512155 60.921689 339.471337 70.399604 
+" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 336.352401 68.226534 
+L 339.471337 70.399604 
+L 335.861519 71.590911 
+" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial'; text-anchor: middle" x="206.685" y="135.84852" transform="rotate(-0 206.685 135.84852)">No verified compatible external validation set</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pae29e3b2cb">
+   <rect x="7.2" y="7.2" width="398.97" height="141.372"/>
+  </clipPath>
+ </defs>
+</svg>

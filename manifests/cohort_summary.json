@@ -1,0 +1,13 @@
+{
+  "source_records": 597,
+  "source_studies": 52,
+  "reserved_records": 2,
+  "development_records": 595,
+  "development_studies": 51,
+  "targets": {
+    "APOE": {"evaluable_records": 595, "positive": 549, "negative": 46, "unknown": 0, "studies": 51},
+    "APOB": {"evaluable_records": 595, "positive": 452, "negative": 143, "unknown": 0, "studies": 51},
+    "C3": {"evaluable_records": 591, "positive": 561, "negative": 30, "unknown": 4, "studies": 50},
+    "CLUS": {"evaluable_records": 595, "positive": 505, "negative": 90, "unknown": 0, "studies": 51}
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "notice": "These URLs and checksums support lawful user-side acquisition only. No source file is redistributed by this repository. Review upstream terms before downloading.",
+  "sources": [
+    {"name": "Dataset-for-protein-freq-analysis-v2.csv", "url": "https://raw.githubusercontent.com/choulab210/Meta-Analysis-of-Nanoparticle-and-Protein-Corona-Interactions-in-Biological-Media/761dc04a9a5815684ea8923fa86f9aac262c4a6a/Datasets/Dataset-for-protein-freq-analysis-v2.csv", "sha256": "f6957952f6878d14f81bc6cb71502198f17193c2334937840c805491c493c734"},
+    {"name": "PC-DB_for_Meta-Analysis.csv", "url": "https://raw.githubusercontent.com/choulab210/Meta-Analysis-of-Nanoparticle-and-Protein-Corona-Interactions-in-Biological-Media/761dc04a9a5815684ea8923fa86f9aac262c4a6a/Datasets/PC-DB_for_Meta-Analysis.csv", "sha256": "167c339e4985d4b4266ded7f604f0622824731aeb0fcb1f13d838612836c30e9"},
+    {"name": "prediction_model_data_human_only.csv", "url": "https://raw.githubusercontent.com/choulab210/Meta-Analysis-of-Nanoparticle-and-Protein-Corona-Interactions-in-Biological-Media/761dc04a9a5815684ea8923fa86f9aac262c4a6a/Datasets/prediction_model_data_human_only.csv", "sha256": "b5b3fa08c944ac20a7c9b6205a9130c48bcd12e4ffd56e7e01b6e32cb4e84b72"}
+  ]
+}
