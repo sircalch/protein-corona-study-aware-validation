@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="413.37pt" height="155.772pt" viewBox="0 0 413.37 155.772" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="413.37pt" height="189.036pt" viewBox="0 0 413.37 189.036" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-09-07T23:35:00.331293</dc:date>
+    <dc:date>2026-09-07T23:59:01.640753</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -21,8 +21,8 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 155.772 
-L 413.37 155.772 
+   <path d="M 0 189.036 
+L 413.37 189.036 
 L 413.37 0 
 L 0 0 
 z
@@ -30,111 +30,154 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 133.27452 51.308064 
-L 280.09548 51.308064 
-Q 287.27694 51.308064 287.27694 48.763368 
-L 287.27694 23.599152 
-Q 287.27694 21.054456 280.09548 21.054456 
-L 133.27452 21.054456 
-Q 126.09306 21.054456 126.09306 23.599152 
-L 126.09306 48.763368 
-Q 126.09306 51.308064 133.27452 51.308064 
+    <path d="M 129.28482 47.715552 
+L 284.08518 47.715552 
+Q 291.26664 47.715552 291.26664 44.572104 
+L 291.26664 22.218696 
+Q 291.26664 19.075248 284.08518 19.075248 
+L 129.28482 19.075248 
+Q 122.10336 19.075248 122.10336 22.218696 
+L 122.10336 44.572104 
+Q 122.10336 47.715552 129.28482 47.715552 
 z
-" clip-path="url(#p56b6b9df3b)" style="fill: #f1f4f6; stroke: #64717d; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#p42849f4bfb)" style="fill: #edf1f3; stroke: #40505c; stroke-width: 1.15; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
-    <path d="M 17.57322 105.029424 
-L 124.49718 105.029424 
-Q 131.67864 105.029424 131.67864 102.484728 
-L 131.67864 73.079352 
-Q 131.67864 70.534656 124.49718 70.534656 
-L 17.57322 70.534656 
-Q 10.39176 70.534656 10.39176 73.079352 
-L 10.39176 102.484728 
-Q 10.39176 105.029424 17.57322 105.029424 
+    <path d="M 23.55777 114.077232 
+L 126.49203 114.077232 
+Q 133.67349 114.077232 133.67349 110.933784 
+L 133.67349 76.355856 
+Q 133.67349 73.212408 126.49203 73.212408 
+L 23.55777 73.212408 
+Q 16.37631 73.212408 16.37631 76.355856 
+L 16.37631 110.933784 
+Q 16.37631 114.077232 23.55777 114.077232 
 z
-" clip-path="url(#p56b6b9df3b)" style="fill: #ffffff; stroke: #64717d; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#p42849f4bfb)" style="fill: #f7eceb; stroke: #40505c; stroke-width: 1.05; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
-    <path d="M 153.22302 105.029424 
-L 260.14698 105.029424 
-Q 267.32844 105.029424 267.32844 102.484728 
-L 267.32844 73.079352 
-Q 267.32844 70.534656 260.14698 70.534656 
-L 153.22302 70.534656 
-Q 146.04156 70.534656 146.04156 73.079352 
-L 146.04156 102.484728 
-Q 146.04156 105.029424 153.22302 105.029424 
+    <path d="M 155.21787 114.077232 
+L 258.15213 114.077232 
+Q 265.33359 114.077232 265.33359 110.933784 
+L 265.33359 76.355856 
+Q 265.33359 73.212408 258.15213 73.212408 
+L 155.21787 73.212408 
+Q 148.03641 73.212408 148.03641 76.355856 
+L 148.03641 110.933784 
+Q 148.03641 114.077232 155.21787 114.077232 
 z
-" clip-path="url(#p56b6b9df3b)" style="fill: #ffffff; stroke: #64717d; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#p42849f4bfb)" style="fill: #f8f3e7; stroke: #40505c; stroke-width: 1.05; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
-    <path d="M 288.87282 105.029424 
-L 395.79678 105.029424 
-Q 402.97824 105.029424 402.97824 102.484728 
-L 402.97824 73.079352 
-Q 402.97824 70.534656 395.79678 70.534656 
-L 288.87282 70.534656 
-Q 281.69136 70.534656 281.69136 73.079352 
-L 281.69136 102.484728 
-Q 281.69136 105.029424 288.87282 105.029424 
+    <path d="M 286.87797 114.077232 
+L 389.81223 114.077232 
+Q 396.99369 114.077232 396.99369 110.933784 
+L 396.99369 76.355856 
+Q 396.99369 73.212408 389.81223 73.212408 
+L 286.87797 73.212408 
+Q 279.69651 73.212408 279.69651 76.355856 
+L 279.69651 110.933784 
+Q 279.69651 114.077232 286.87797 114.077232 
 z
-" clip-path="url(#p56b6b9df3b)" style="fill: #ffffff; stroke: #64717d; stroke-width: 0.8; stroke-linejoin: miter"/>
-   </g>
-   <g id="text_1">
-    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(130.188828 33.814706)">PROTCROWN downloaded NP metadata</text>
-    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(146.558633 42.848251)">662 rows | 62 source-title groups</text>
-   </g>
-   <g id="text_2">
-    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(59.266231 81.725963)">Shared</text>
-    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(37.01663 89.671129)">34 groups | 480 rows</text>
-    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(56.020583 97.616437)">Excluded</text>
+" clip-path="url(#p42849f4bfb)" style="fill: #f1eef4; stroke: #40505c; stroke-width: 1.05; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
-    <path d="M 204.702082 51.314639 
-Q 138.857845 60.921689 73.898663 70.399604 
-" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
-    <path d="M 77.508481 71.590911 
-L 73.898663 70.399604 
-L 77.017599 68.226534 
-" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 155.21787 152.497152 
+L 258.15213 152.497152 
+Q 265.33359 152.497152 265.33359 149.353704 
+L 265.33359 133.112556 
+Q 265.33359 129.969108 258.15213 129.969108 
+L 155.21787 129.969108 
+Q 148.03641 129.969108 148.03641 133.112556 
+L 148.03641 149.353704 
+Q 148.03641 152.497152 155.21787 152.497152 
+z
+" clip-path="url(#p42849f4bfb)" style="fill: #ffffff; stroke: #40505c; stroke-width: 1.05; stroke-linejoin: miter"/>
    </g>
-   <g id="text_3">
-    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(168.133016 81.725892)">Candidate nonmatching</text>
-    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(172.66643 89.6712)">25 groups | 168 rows</text>
-    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(166.709516 97.616509)">Independence unverified</text>
+   <g id="text_1">
+    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(156.195711 31.028846)">PROTCROWN METADATA</text>
+    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(146.255164 40.062391)">662 rows · 62 source-title groups</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'Arial'; text-anchor: middle; fill: #26343e" x="206.685" y="58.71762" transform="rotate(-0 206.685 58.71762)">PROVENANCE SCREENING</text>
    </g>
    <g id="patch_7">
-    <path d="M 206.685 53.020957 
-Q 206.685 60.917694 206.685 67.920004 
-" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
-    <path d="M 208.385 64.520004 
-L 206.685 67.920004 
-L 204.985 64.520004 
-" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 206.685 49.368454 
+Q 206.685 54.352006 206.685 58.10572 
+" style="fill: none; stroke: #40505c; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 208.445 54.58572 
+L 206.685 58.10572 
+L 204.925 54.58572 
+z
+" style="fill: #40505c; stroke: #40505c; stroke-width: 1.1; stroke-linecap: round"/>
    </g>
-   <g id="text_4">
-    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(323.873784 81.723895)">Unresolved</text>
-    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(312.375714 89.669061)">3 groups | 14 rows</text>
-    <text style="font-size: 7.3px; font-family: 'Arial'" transform="translate(322.247253 97.618505)">Quarantined</text>
+   <g id="text_3">
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(59.708763 83.54747)">SHARED</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(58.680912 91.547055)">34 groups</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(60.114162 99.546784)">480 rows</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(61.951088 107.546369)">Exclude</text>
    </g>
    <g id="patch_8">
-    <path d="M 208.667918 51.314639 
-Q 274.512155 60.921689 339.471337 70.399604 
-" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
-    <path d="M 336.352401 68.226534 
-L 339.471337 70.399604 
-L 335.861519 71.590911 
-" style="fill: none; stroke: #4d5965; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 204.696116 62.381816 
+Q 140.855757 67.88594 78.129299 73.294028 
+" style="fill: none; stroke: #40505c; stroke-linecap: round"/>
+    <path d="M 81.78747 74.745161 
+L 78.129299 73.294028 
+L 81.485108 71.238171 
+" style="fill: none; stroke: #40505c; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(185.721996 83.54747)">CANDIDATE</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(190.341012 91.547055)">25 groups</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(191.774262 99.546784)">168 rows</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(166.435711 107.546369)">Independence unverified</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 206.685 64.208464 
+Q 206.685 67.887183 206.685 70.447867 
+" style="fill: none; stroke: #40505c; stroke-linecap: round"/>
+    <path d="M 208.445 66.927867 
+L 206.685 70.447867 
+L 204.925 66.927867 
+" style="fill: none; stroke: #40505c; stroke-linecap: round"/>
    </g>
    <g id="text_5">
-    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial'; text-anchor: middle" x="206.685" y="135.84852" transform="rotate(-0 206.685 135.84852)">No verified compatible external validation set</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(313.294233 83.54747)">UNRESOLVED</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(324.044756 91.547055)">3 groups</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(325.478006 99.546784)">14 rows</text>
+    <text style="font-size: 7.35px; font-family: 'Arial'" transform="translate(320.163612 107.550532)">Quarantine</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 208.673884 62.381816 
+Q 272.514243 67.88594 335.240701 73.294028 
+" style="fill: none; stroke: #40505c; stroke-linecap: round"/>
+    <path d="M 331.884892 71.238171 
+L 335.240701 73.294028 
+L 331.58253 74.745161 
+" style="fill: none; stroke: #40505c; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial'" transform="translate(159.514688 139.090503)">VALIDATED SAMPLE KEY?</text>
+    <text style="font-size: 7.5px; font-family: 'Arial'" transform="translate(201.06 147.257593)">NO</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 206.685 115.727576 
+Q 206.685 122.460978 206.685 127.964543 
+" style="fill: none; stroke: #40505c; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 208.445 124.444543 
+L 206.685 127.964543 
+L 204.925 124.444543 
+z
+" style="fill: #40505c; stroke: #40505c; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'Arial'; text-anchor: middle; fill: #26343e" x="206.685" y="170.48466" transform="rotate(-0 206.685 170.48466)">External scoring not performed</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p56b6b9df3b">
-   <rect x="7.2" y="7.2" width="398.97" height="141.372"/>
+  <clipPath id="p42849f4bfb">
+   <rect x="7.2" y="7.2" width="398.97" height="174.636"/>
   </clipPath>
  </defs>
 </svg>

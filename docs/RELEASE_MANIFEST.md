@@ -4,7 +4,8 @@
 | --- | --- |
 | Project | ProteinCorona-OOD |
 | Public repository | https://github.com/sircalch/protein-corona-study-aware-validation |
-| Public commit | `ea2c05f6781c9e79bbd8b15c91431070840bcdf0` on `master` |
+| Public repository HEAD | `9ed45ac4e1a92bb32243172c68c8d15522a87d56` on `master` |
+| Prepared archive commit | `ea2c05f6781c9e79bbd8b15c91431070840bcdf0` (`ZENODO_DEPOSIT_READY/protein-corona-study-aware-validation-ea2c05f.zip`) |
 | Software metadata version | 1.0.0 |
 | Release tag | NOT CREATED |
 | GitHub Release | NOT CREATED |
