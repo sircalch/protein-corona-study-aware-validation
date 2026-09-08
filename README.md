@@ -11,7 +11,7 @@ The primary comparison is **Study-grouped** versus RANDOM with the same target-s
 1. Review `docs/DATA_RIGHTS.md` and the upstream terms.
 2. Acquire upstream files to an ignored local directory: `python scripts/acquire_sources.py --accept-source-terms`.
 3. Verify checksums: `python scripts/verify_sources.py`.
-4. Inspect the frozen configuration in `configs/frozen_configuration.md` and `manifests/cohort_summary.json`.
+4. Inspect the frozen configuration in `configs/frozen_configuration.md`, `configs/effective_model_parameters.json` and `manifests/cohort_summary.json`.
 5. Verify public aggregate results and figure sources: `python scripts/release_checks.py`.
 6. Regenerate the public Figure 2 and Figure 4 displays from aggregate outputs: `python scripts/generate_figures.py`.
 
@@ -20,7 +20,7 @@ The public release does **not** claim one-command, end-to-end rerunning of cohor
 ## Layout
 
 - `aggregate_results/`: frozen aggregate metrics and source tables
-- `configs/`: effective fixed settings
+- `configs/`: frozen settings and installed-version effective parameter archive
 - `docs/`: data rights, provenance and scientific limits
 - `figures/`: publication assets in SVG, PDF, PNG and TIFF
 - `manifests/`: public-safe cohort and source-checksum manifests
@@ -29,4 +29,4 @@ The public release does **not** claim one-command, end-to-end rerunning of cohor
 
 ## License and citation
 
-The project-authored material is released under [CC BY-NC 4.0](LICENSE). See `CITATION.cff`. Creator metadata is intentionally omitted until author information is confirmed for this specific manuscript.
+Project-authored software is released under the [MIT License](LICENSE). Project-authored documentation and figures are available under [CC BY-NC 4.0](LICENSE-DOCUMENTATION-CC-BY-NC-4.0.md). See `LICENSES.md` and `CITATION.cff`. Creator metadata is intentionally omitted until author information is confirmed for this specific manuscript.

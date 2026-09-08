@@ -1,9 +1,9 @@
 {
   "title": "Study-aware validation of cross-study transportability in protein-corona detection models",
   "upload_type": "software",
-  "description": "Public-safe code, aggregate results, figures, and provenance for the frozen ProteinCorona-OOD benchmark. Raw third-party data, row-level derivatives, source downloads, and manuscript files are excluded.",
+  "description": "Public-safe MIT-licensed software, aggregate results, figures, and provenance for the frozen ProteinCorona-OOD benchmark. Project-authored documentation and figures are separately CC BY-NC 4.0. Raw third-party data, row-level derivatives, source downloads, and manuscript files are excluded.",
   "version": "1.0.0",
-  "license": "CC-BY-NC-4.0",
+  "license": "MIT",
   "keywords": ["protein corona", "cross-study validation", "nanoinformatics", "reproducibility"],
   "related_identifiers": [{"identifier": "https://github.com/sircalch/protein-corona-study-aware-validation", "relation": "isSupplementTo", "resource_type": "software"}],
   "notes": "Creator metadata must be added only after project-specific author confirmation."

@@ -3,8 +3,8 @@ message: "If you use this software archive, please cite the associated manuscrip
 title: "Study-aware validation of cross-study transportability in protein-corona detection models"
 type: software
 version: 1.0.0
-license: CC-BY-NC-4.0
-abstract: "Public-safe code, aggregate results, figures, and provenance for a frozen study-aware validation benchmark."
+license: MIT
+abstract: "Public-safe MIT-licensed software, aggregate results, figures, and provenance for a frozen study-aware validation benchmark. Project-authored documentation and figures are separately CC BY-NC 4.0."
 keywords:
   - protein corona
   - cross-study validation

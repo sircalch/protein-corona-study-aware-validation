@@ -1,0 +1,153 @@
+{
+  "LogisticRegression": {
+    "C": 1,
+    "class_weight": null,
+    "dual": false,
+    "fit_intercept": true,
+    "intercept_scaling": 1,
+    "l1_ratio": null,
+    "max_iter": 2000,
+    "multi_class": "deprecated",
+    "n_jobs": null,
+    "penalty": "l2",
+    "random_state": 32,
+    "solver": "lbfgs",
+    "tol": 0.0001,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "OneHotEncoder": {
+    "categories": "auto",
+    "drop": null,
+    "dtype": "<class 'numpy.float64'>",
+    "feature_name_combiner": "concat",
+    "handle_unknown": "ignore",
+    "max_categories": null,
+    "min_frequency": null,
+    "sparse_output": false
+  },
+  "Pipeline_LR": {
+    "encoder": "OneHotEncoder(handle_unknown='ignore', sparse_output=False)",
+    "encoder__categories": "auto",
+    "encoder__drop": null,
+    "encoder__dtype": "<class 'numpy.float64'>",
+    "encoder__feature_name_combiner": "concat",
+    "encoder__handle_unknown": "ignore",
+    "encoder__max_categories": null,
+    "encoder__min_frequency": null,
+    "encoder__sparse_output": false,
+    "estimator": "LogisticRegression(C=1, max_iter=2000, random_state=32)",
+    "estimator__C": 1,
+    "estimator__class_weight": null,
+    "estimator__dual": false,
+    "estimator__fit_intercept": true,
+    "estimator__intercept_scaling": 1,
+    "estimator__l1_ratio": null,
+    "estimator__max_iter": 2000,
+    "estimator__multi_class": "deprecated",
+    "estimator__n_jobs": null,
+    "estimator__penalty": "l2",
+    "estimator__random_state": 32,
+    "estimator__solver": "lbfgs",
+    "estimator__tol": 0.0001,
+    "estimator__verbose": 0,
+    "estimator__warm_start": false,
+    "memory": null,
+    "steps": [
+      [
+        "encoder",
+        "OneHotEncoder(handle_unknown='ignore', sparse_output=False)"
+      ],
+      [
+        "estimator",
+        "LogisticRegression(C=1, max_iter=2000, random_state=32)"
+      ]
+    ],
+    "verbose": false
+  },
+  "Pipeline_RF": {
+    "encoder": "OneHotEncoder(handle_unknown='ignore', sparse_output=False)",
+    "encoder__categories": "auto",
+    "encoder__drop": null,
+    "encoder__dtype": "<class 'numpy.float64'>",
+    "encoder__feature_name_combiner": "concat",
+    "encoder__handle_unknown": "ignore",
+    "encoder__max_categories": null,
+    "encoder__min_frequency": null,
+    "encoder__sparse_output": false,
+    "estimator": "RandomForestClassifier(min_samples_leaf=5, n_jobs=1, random_state=32)",
+    "estimator__bootstrap": true,
+    "estimator__ccp_alpha": 0.0,
+    "estimator__class_weight": null,
+    "estimator__criterion": "gini",
+    "estimator__max_depth": null,
+    "estimator__max_features": "sqrt",
+    "estimator__max_leaf_nodes": null,
+    "estimator__max_samples": null,
+    "estimator__min_impurity_decrease": 0.0,
+    "estimator__min_samples_leaf": 5,
+    "estimator__min_samples_split": 2,
+    "estimator__min_weight_fraction_leaf": 0.0,
+    "estimator__monotonic_cst": null,
+    "estimator__n_estimators": 100,
+    "estimator__n_jobs": 1,
+    "estimator__oob_score": false,
+    "estimator__random_state": 32,
+    "estimator__verbose": 0,
+    "estimator__warm_start": false,
+    "memory": null,
+    "steps": [
+      [
+        "encoder",
+        "OneHotEncoder(handle_unknown='ignore', sparse_output=False)"
+      ],
+      [
+        "estimator",
+        "RandomForestClassifier(min_samples_leaf=5, n_jobs=1, random_state=32)"
+      ]
+    ],
+    "verbose": false
+  },
+  "RandomForestClassifier": {
+    "bootstrap": true,
+    "ccp_alpha": 0.0,
+    "class_weight": null,
+    "criterion": "gini",
+    "max_depth": null,
+    "max_features": "sqrt",
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 5,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 100,
+    "n_jobs": 1,
+    "oob_score": false,
+    "random_state": 32,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "archive_scope": "Installed-version get_params() only; no data were loaded and no estimator was fitted.",
+  "frozen_overrides": {
+    "LR": {
+      "C": 1,
+      "max_iter": 2000
+    },
+    "RF": {
+      "min_samples_leaf": 5,
+      "n_estimators": 100,
+      "n_jobs": 1
+    },
+    "split_seeds": [
+      32,
+      1729,
+      2026
+    ]
+  },
+  "software": {
+    "python": "3.12.10",
+    "scikit_learn": "1.5.2"
+  }
+}
