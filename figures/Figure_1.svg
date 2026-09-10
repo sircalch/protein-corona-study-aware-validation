@@ -1,361 +1,108 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="498.228391pt" height="244.476pt" viewBox="0 0 498.228391 244.476" xmlns="http://www.w3.org/2000/svg" version="1.1">
- <metadata>
-  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <cc:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-09-07T23:58:50.085308</dc:date>
-    <dc:format>image/svg+xml</dc:format>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
-     </cc:Agent>
-    </dc:creator>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
- </defs>
- <g id="figure_1">
-  <g id="patch_1">
-   <path d="M 0 244.476 
-L 498.228391 244.476 
-L 498.228391 0 
-L 0 0 
-z
-" style="fill: #ffffff"/>
-  </g>
-  <g id="axes_1">
-   <g id="patch_2">
-    <path d="M 65.986965 55.976112 
-L 168.921225 55.976112 
-Q 176.102685 55.976112 176.102685 51.834744 
-L 176.102685 24.685776 
-Q 176.102685 20.544408 168.921225 20.544408 
-L 65.986965 20.544408 
-Q 58.805505 20.544408 58.805505 24.685776 
-L 58.805505 51.834744 
-Q 58.805505 55.976112 65.986965 55.976112 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #edf1f3; stroke: #40505c; stroke-width: 1.15; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_3">
-    <path d="M 197.647065 55.976112 
-L 308.560725 55.976112 
-Q 315.742185 55.976112 315.742185 51.834744 
-L 315.742185 24.685776 
-Q 315.742185 20.544408 308.560725 20.544408 
-L 197.647065 20.544408 
-Q 190.465605 20.544408 190.465605 24.685776 
-L 190.465605 51.834744 
-Q 190.465605 55.976112 197.647065 55.976112 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #e1eef5; stroke: #40505c; stroke-width: 1.15; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_4">
-    <path d="M 343.271115 55.976112 
-L 430.246575 55.976112 
-Q 437.428035 55.976112 437.428035 51.834744 
-L 437.428035 24.685776 
-Q 437.428035 20.544408 430.246575 20.544408 
-L 343.271115 20.544408 
-Q 336.089655 20.544408 336.089655 24.685776 
-L 336.089655 51.834744 
-Q 336.089655 55.976112 343.271115 55.976112 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #f7f1e7; stroke: #40505c; stroke-width: 1.15; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_5">
-    <path d="M 65.986965 200.923992 
-L 168.921225 200.923992 
-Q 176.102685 200.923992 176.102685 196.782624 
-L 176.102685 109.813896 
-Q 176.102685 105.672528 168.921225 105.672528 
-L 65.986965 105.672528 
-Q 58.805505 105.672528 58.805505 109.813896 
-L 58.805505 196.782624 
-Q 58.805505 200.923992 65.986965 200.923992 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #ffffff; stroke: #40505c; stroke-width: 1.1; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_6">
-    <path d="M 79.551945 142.94484 
-L 100.298385 142.94484 
-L 100.298385 137.883168 
-L 79.551945 137.883168 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #4c78a8; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_7">
-    <path d="M 128.226285 142.94484 
-L 148.972725 142.94484 
-L 148.972725 137.883168 
-L 128.226285 137.883168 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #4c78a8; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_8">
-    <path d="M 79.551945 151.227576 
-L 100.298385 151.227576 
-L 100.298385 146.165904 
-L 79.551945 146.165904 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #72b7b2; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_9">
-    <path d="M 128.226285 151.227576 
-L 148.972725 151.227576 
-L 148.972725 146.165904 
-L 128.226285 146.165904 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #72b7b2; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_10">
-    <path d="M 79.551945 159.510312 
-L 100.298385 159.510312 
-L 100.298385 154.44864 
-L 79.551945 154.44864 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #f2cf5b; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_11">
-    <path d="M 128.226285 159.510312 
-L 148.972725 159.510312 
-L 148.972725 154.44864 
-L 128.226285 154.44864 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #f2cf5b; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_12">
-    <path d="M 79.551945 167.793048 
-L 100.298385 167.793048 
-L 100.298385 162.731376 
-L 79.551945 162.731376 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #e45756; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_13">
-    <path d="M 128.226285 167.793048 
-L 148.972725 167.793048 
-L 148.972725 162.731376 
-L 128.226285 162.731376 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #e45756; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_14">
-    <path d="M 79.551945 176.075784 
-L 100.298385 176.075784 
-L 100.298385 171.014112 
-L 79.551945 171.014112 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #b279a2; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_15">
-    <path d="M 128.226285 176.075784 
-L 148.972725 176.075784 
-L 148.972725 171.014112 
-L 128.226285 171.014112 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #b279a2; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_16">
-    <path d="M 197.647065 200.923992 
-L 300.581325 200.923992 
-Q 307.762785 200.923992 307.762785 196.782624 
-L 307.762785 109.813896 
-Q 307.762785 105.672528 300.581325 105.672528 
-L 197.647065 105.672528 
-Q 190.465605 105.672528 190.465605 109.813896 
-L 190.465605 196.782624 
-Q 190.465605 200.923992 197.647065 200.923992 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #ffffff; stroke: #40505c; stroke-width: 1.1; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_17">
-    <path d="M 211.212045 142.94484 
-L 231.958485 142.94484 
-L 231.958485 137.883168 
-L 211.212045 137.883168 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #4c78a8; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_18">
-    <path d="M 211.212045 151.227576 
-L 231.958485 151.227576 
-L 231.958485 146.165904 
-L 211.212045 146.165904 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #72b7b2; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_19">
-    <path d="M 211.212045 159.510312 
-L 231.958485 159.510312 
-L 231.958485 154.44864 
-L 211.212045 154.44864 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #f2cf5b; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_20">
-    <path d="M 259.886385 167.793048 
-L 280.632825 167.793048 
-L 280.632825 162.731376 
-L 259.886385 162.731376 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #e45756; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_21">
-    <path d="M 259.886385 176.075784 
-L 280.632825 176.075784 
-L 280.632825 171.014112 
-L 259.886385 171.014112 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #b279a2; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_22">
-    <path d="M 329.307165 200.923992 
-L 432.241425 200.923992 
-Q 439.422885 200.923992 439.422885 196.782624 
-L 439.422885 109.813896 
-Q 439.422885 105.672528 432.241425 105.672528 
-L 329.307165 105.672528 
-Q 322.125705 105.672528 322.125705 109.813896 
-L 322.125705 196.782624 
-Q 322.125705 200.923992 329.307165 200.923992 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #ffffff; stroke: #40505c; stroke-width: 1.1; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_23">
-    <path d="M 342.872145 142.94484 
-L 363.618585 142.94484 
-L 363.618585 137.883168 
-L 342.872145 137.883168 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #4c78a8; opacity: 0.88; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_24">
-    <path d="M 342.872145 151.227576 
-L 363.618585 151.227576 
-L 363.618585 146.165904 
-L 342.872145 146.165904 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #72b7b2; opacity: 0.88; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_25">
-    <path d="M 342.872145 159.510312 
-L 363.618585 159.510312 
-L 363.618585 154.44864 
-L 342.872145 154.44864 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #f2cf5b; opacity: 0.88; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_26">
-    <path d="M 391.546485 167.793048 
-L 412.292925 167.793048 
-L 412.292925 162.731376 
-L 391.546485 162.731376 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #e45756; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_27">
-    <path d="M 342.872145 176.075784 
-L 363.618585 176.075784 
-L 363.618585 171.014112 
-L 342.872145 171.014112 
-z
-" clip-path="url(#pa60189b2c0)" style="fill: #b279a2; opacity: 0.88; stroke: #ffffff; stroke-width: 0.45; stroke-linejoin: miter"/>
-   </g>
-   <g id="text_1">
-    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(80.639056 35.893787)">SOURCE COHORT</text>
-    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(72.936267 44.927332)">597 records · 52 studies</text>
-   </g>
-   <g id="text_2">
-    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(202.757262 35.893787)">DEVELOPMENT COHORT</text>
-    <text style="font-size: 8.3px; font-family: 'Arial'" transform="translate(208.586067 44.927332)">595 records · 51 studies</text>
-   </g>
-   <g id="text_3">
-    <text style="font-size: 7.8px; font-family: 'Arial'" transform="translate(365.37283 36.034137)">RESERVED</text>
-    <text style="font-size: 7.8px; font-family: 'Arial'" transform="translate(356.301673 44.523492)">n = 2 · not scored</text>
-   </g>
-   <g id="patch_28">
-    <path d="M 177.303492 38.26026 
-Q 183.283207 38.26026 187.921282 38.26026 
-" style="fill: none; stroke: #40505c; stroke-width: 1.2; stroke-linecap: round"/>
-    <path d="M 184.401282 36.50026 
-L 187.921282 38.26026 
-L 184.401282 40.02026 
-" style="fill: none; stroke: #40505c; stroke-width: 1.2; stroke-linecap: round"/>
-   </g>
-   <g id="patch_29">
-    <path d="M 316.945183 38.26026 
-Q 325.91586 38.26026 333.544897 38.26026 
-" style="fill: none; stroke: #40505c; stroke-width: 1.2; stroke-linecap: round"/>
-    <path d="M 330.024897 36.50026 
-L 333.544897 38.26026 
-L 330.024897 40.02026 
-" style="fill: none; stroke: #40505c; stroke-width: 1.2; stroke-linecap: round"/>
-   </g>
-   <g id="patch_30">
-    <path d="M 253.103895 57.515363 
-Q 253.103895 76.224154 253.103895 93.647206 
-" style="fill: none; stroke: #40505c; stroke-width: 1.15; stroke-linecap: round"/>
-    <path d="M 254.863895 90.127206 
-L 253.103895 93.647206 
-L 251.343895 90.127206 
-z
-" style="fill: #40505c; stroke: #40505c; stroke-width: 1.15; stroke-linecap: round"/>
-   </g>
-   <g id="text_4">
-    <text style="font-weight: 700; font-size: 8.2px; font-family: 'Arial'; text-anchor: middle; fill: #26343e" x="253.103895" y="85.42584" transform="rotate(-0 253.103895 85.42584)">ANALYSIS COHORT</text>
-   </g>
-   <g id="text_5">
-    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial'; text-anchor: middle; fill: #1e2d38" x="117.454095" y="118.78686" transform="rotate(-0 117.454095 118.78686)">RANDOM</text>
-   </g>
-   <g id="text_6">
-    <text style="font-size: 6.8px; font-family: 'Arial'; text-anchor: middle; fill: #40505c" x="117.454095" y="127.299672" transform="rotate(-0 117.454095 127.299672)">sample-level folds</text>
-   </g>
-   <g id="text_7">
-    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle; fill: #37424a" x="117.454095" y="134.432028" transform="rotate(-0 117.454095 134.432028)">TRAIN                 TEST</text>
-   </g>
-   <g id="text_8">
-    <text style="font-size: 5.9px; font-family: 'Arial'; fill: #26343e" transform="translate(86.46665 193.697613)">same studies can occur</text>
-    <text style="font-size: 5.9px; font-family: 'Arial'; fill: #26343e" transform="translate(97.285314 200.119049)">in train and test</text>
-   </g>
-   <g id="text_9">
-    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial'; text-anchor: middle; fill: #1e2d38" x="249.114195" y="118.78686" transform="rotate(-0 249.114195 118.78686)">Study-grouped</text>
-   </g>
-   <g id="text_10">
-    <text style="font-size: 6.8px; font-family: 'Arial'; text-anchor: middle; fill: #40505c" x="249.114195" y="127.299672" transform="rotate(-0 249.114195 127.299672)">study-disjoint folds</text>
-   </g>
-   <g id="text_11">
-    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle; fill: #37424a" x="249.114195" y="134.432028" transform="rotate(-0 249.114195 134.432028)">TRAIN                 TEST</text>
-   </g>
-   <g id="text_12">
-    <text style="font-size: 5.9px; font-family: 'Arial'; fill: #26343e" transform="translate(219.924406 193.697613)">whole studies held out</text>
-    <text style="font-size: 5.9px; font-family: 'Arial'; fill: #26343e" transform="translate(215.502633 200.119049)">matched training-size cap</text>
-   </g>
-   <g id="text_13">
-    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial'; text-anchor: middle; fill: #1e2d38" x="380.774295" y="118.78686" transform="rotate(-0 380.774295 118.78686)">LOSO</text>
-   </g>
-   <g id="text_14">
-    <text style="font-size: 6.8px; font-family: 'Arial'; text-anchor: middle; fill: #40505c" x="380.774295" y="127.299672" transform="rotate(-0 380.774295 127.299672)">study-level holdout</text>
-   </g>
-   <g id="text_15">
-    <text style="font-size: 6px; font-family: 'Arial'; text-anchor: middle; fill: #37424a" x="380.774295" y="134.432028" transform="rotate(-0 380.774295 134.432028)">TRAIN                 TEST</text>
-   </g>
-   <g id="text_16">
-    <text style="font-size: 5.9px; font-family: 'Arial'; text-anchor: middle; fill: #26343e" x="380.774295" y="193.255401" transform="rotate(-0 380.774295 193.255401)">one complete study held out</text>
-   </g>
-   <g id="text_17">
-    <text style="font-size: 7.1px; font-family: 'Arial'; text-anchor: middle; fill: #40505c" x="249.114195" y="222.32106" transform="rotate(-0 249.114195 222.32106)">Conceptual allocation schematic; no observations depicted. Predefined clean sensitivity removes A10/A38 before all operations (590 records · 49 studies).</text>
-   </g>
-  </g>
- </g>
- <defs>
-  <clipPath id="pa60189b2c0">
-   <rect x="49.629195" y="7.2" width="398.97" height="230.076"/>
-  </clipPath>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="174mm" height="150mm" viewBox="0 0 1740 1500"><defs><style>text{font-family:Arial,Helvetica,sans-serif;letter-spacing:.05px}</style><radialGradient id="sphere" cx="35%" cy="28%"><stop offset="0" stop-color="#E8F6F9"/><stop offset=".30" stop-color="#7CC4D1"/><stop offset=".72" stop-color="#23849B"/><stop offset="1" stop-color="#0D4C66"/></radialGradient><linearGradient id="corona" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6C884"/><stop offset="1" stop-color="#B15B27"/></linearGradient><linearGradient id="cubeTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D8EAF0"/><stop offset="1" stop-color="#AFCFD9"/></linearGradient><linearGradient id="cubeSide" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#8AB3C1"/><stop offset="1" stop-color="#557C8A"/></linearGradient></defs><rect width="1740" height="1500" fill="#FFFFFF"/>
+<text x="80" y="75" text-anchor="start" font-size="34" font-weight="700" fill="#007A98"><tspan x="80" dy="0">a</tspan></text>
+<rect x="610" y="80" width="520" height="70" rx="16" fill="#FFFFFF" stroke="#5F8194" stroke-width="2.5"/>
+<text x="870.0" y="123.0" text-anchor="middle" font-size="30" font-weight="700" fill="#102531"><tspan x="870.0" dy="0">Abstract protein-corona layer</tspan></text>
+<rect x="90" y="320" width="365" height="72" rx="16" fill="#FFFFFF" stroke="#5F8194" stroke-width="2.5"/>
+<text x="272.5" y="364.0" text-anchor="middle" font-size="30" font-weight="700" fill="#102531"><tspan x="272.5" dy="0">NP type / subtype</tspan></text>
+<rect x="90" y="530" width="365" height="72" rx="16" fill="#FFFFFF" stroke="#5F8194" stroke-width="2.5"/>
+<text x="272.5" y="574.0" text-anchor="middle" font-size="30" font-weight="700" fill="#102531"><tspan x="272.5" dy="0">Size group</tspan></text>
+<rect x="1285" y="320" width="365" height="72" rx="16" fill="#FFFFFF" stroke="#5F8194" stroke-width="2.5"/>
+<text x="1467.5" y="364.0" text-anchor="middle" font-size="30" font-weight="700" fill="#102531"><tspan x="1467.5" dy="0">Zeta-potential group</tspan></text>
+<rect x="1285" y="530" width="365" height="72" rx="16" fill="#FFFFFF" stroke="#5F8194" stroke-width="2.5"/>
+<text x="1467.5" y="558.0" text-anchor="middle" font-size="30" font-weight="700" fill="#102531"><tspan x="1467.5" dy="0">Charge / surface</tspan><tspan x="1467.5" dy="34.5">modification</tspan></text>
+<rect x="610" y="760" width="520" height="70" rx="16" fill="#FFFFFF" stroke="#5F8194" stroke-width="2.5"/>
+<text x="870.0" y="803.0" text-anchor="middle" font-size="30" font-weight="700" fill="#102531"><tspan x="870.0" dy="0">Protein-corona measurement</tspan></text>
+<ellipse cx="870" cy="470" rx="270" ry="112" fill="#DDF1F4" opacity=".65"/>
+<circle cx="870" cy="462" r="205" fill="none" stroke="#C9EAF0" stroke-width="24" opacity=".70"/>
+<circle cx="870" cy="462" r="188" fill="none" stroke="url(#corona)" stroke-width="17" stroke-dasharray="42 16" opacity="0.98"/>
+<circle cx="870" cy="462" r="214" fill="none" stroke="url(#corona)" stroke-width="5" stroke-dasharray="42 16" opacity="0.55"/>
+<circle cx="870" cy="462" r="155" fill="url(#sphere)" stroke="#155D72" stroke-width="4"/>
+<ellipse cx="826" cy="414" rx="42" ry="25" fill="#F6FFFF" opacity=".60"/>
+<path d="M655 274 C677 245 724 260 718 296 C710 321 667 323 651 302 Z" fill="#C97843" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M1002 268 C1026 242 1070 260 1062 295 C1055 319 1014 316 1000 296 Z" fill="#8A5E9C" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M1085 485 C1113 456 1150 477 1142 512 C1134 540 1096 537 1081 514 Z" fill="#5D9A74" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M612 510 C632 480 670 490 672 523 C670 551 631 557 613 536 Z" fill="#AA704E" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M697 636 C720 607 759 622 758 653 C754 682 715 686 695 663 Z" fill="#A27C49" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M982 639 C1004 607 1043 620 1046 651 C1046 680 1006 691 986 667 Z" fill="#B56B7A" stroke="#FFFFFF" stroke-width="4"/>
+<line x1="870" y1="150" x2="870" y2="250" stroke="#5F8194" stroke-width="3"/>
+<line x1="455" y1="356" x2="650" y2="412" stroke="#5F8194" stroke-width="3"/>
+<line x1="455" y1="566" x2="655" y2="510" stroke="#5F8194" stroke-width="3"/>
+<line x1="1285" y1="356" x2="1088" y2="412" stroke="#5F8194" stroke-width="3"/>
+<line x1="1285" y1="566" x2="1085" y2="510" stroke="#5F8194" stroke-width="3"/>
+<line x1="870" y1="617" x2="870" y2="760" stroke="#5F8194" stroke-width="3"/>
+<rect x="778" y="860" width="184" height="12" rx="6" fill="#EDA12A" stroke="none" stroke-width="0"/>
+<text x="870" y="920" text-anchor="middle" font-size="30" font-weight="700" fill="#A54F20"><tspan x="870" dy="0">Recorded experimental context</tspan></text>
+<line x1="80" y1="965" x2="1660" y2="965" stroke="#D7E3E7" stroke-width="2"/>
+<line x1="550" y1="1025" x2="550" y2="1430" stroke="#D7E2E7" stroke-width="2"/>
+<line x1="1080" y1="1025" x2="1080" y2="1430" stroke="#D7E2E7" stroke-width="2"/>
+<text x="82" y="1040" text-anchor="start" font-size="34" font-weight="700" fill="#007A98"><tspan x="82" dy="0">b</tspan></text>
+<text x="572" y="1040" text-anchor="start" font-size="34" font-weight="700" fill="#007A98"><tspan x="572" dy="0">c</tspan></text>
+<text x="1110" y="1040" text-anchor="start" font-size="34" font-weight="700" fill="#007A98"><tspan x="1110" dy="0">d</tspan></text>
+<polygon points="175,1190 338,1115 490,1180 327,1250" fill="url(#cubeTop)" stroke="#547987" stroke-width="2"/>
+<polygon points="175,1190 327,1250 327,1360 175,1300" fill="url(#cubeSide)" stroke="#547987" stroke-width="2"/>
+<polygon points="327,1250 490,1180 490,1290 327,1360" fill="#6B97A5" stroke="#547987" stroke-width="2"/>
+<line x1="215" y1="1172" x2="367" y2="1232" stroke="#7FABB7" stroke-width="1.5"/>
+<line x1="255" y1="1154" x2="407" y2="1214" stroke="#7FABB7" stroke-width="1.5"/>
+<line x1="295" y1="1136" x2="447" y2="1196" stroke="#7FABB7" stroke-width="1.5"/>
+<line x1="175" y1="1218" x2="327" y2="1278" stroke="#B7D2DA" stroke-width="1.5"/>
+<line x1="175" y1="1246" x2="327" y2="1306" stroke="#B7D2DA" stroke-width="1.5"/>
+<line x1="175" y1="1274" x2="327" y2="1334" stroke="#B7D2DA" stroke-width="1.5"/>
+<text x="330" y="1095" text-anchor="middle" font-size="28" font-weight="700" fill="#007A98"><tspan x="330" dy="0">STUDIES</tspan></text>
+<rect x="82" y="1425" width="150" height="63" rx="8" fill="#F4F9FA" stroke="#D7E2E7" stroke-width="1.5"/>
+<text x="157" y="1454" text-anchor="middle" font-size="32" font-weight="700" fill="#173F4D"><tspan x="157" dy="0">595</tspan></text>
+<text x="157" y="1480" text-anchor="middle" font-size="28" font-weight="600" fill="#5A6D76"><tspan x="157" dy="0">records</tspan></text>
+<rect x="250" y="1425" width="150" height="63" rx="8" fill="#F4F9FA" stroke="#D7E2E7" stroke-width="1.5"/>
+<text x="325" y="1454" text-anchor="middle" font-size="32" font-weight="700" fill="#173F4D"><tspan x="325" dy="0">51</tspan></text>
+<text x="325" y="1480" text-anchor="middle" font-size="28" font-weight="600" fill="#5A6D76"><tspan x="325" dy="0">Study IDs</tspan></text>
+<rect x="418" y="1425" width="150" height="63" rx="8" fill="#F4F9FA" stroke="#D7E2E7" stroke-width="1.5"/>
+<text x="493" y="1454" text-anchor="middle" font-size="32" font-weight="700" fill="#173F4D"><tspan x="493" dy="0">8</tspan></text>
+<text x="493" y="1480" text-anchor="middle" font-size="28" font-weight="600" fill="#5A6D76"><tspan x="493" dy="0">predictors</tspan></text>
+<text x="650" y="1115" text-anchor="start" font-size="28" font-weight="700" fill="#173F4D"><tspan x="650" dy="0">RANDOM</tspan></text>
+<text x="650" y="1240" text-anchor="start" font-size="28" font-weight="700" fill="#173F4D"><tspan x="650" dy="0">STUDY-GROUPED</tspan></text>
+<text x="650" y="1365" text-anchor="start" font-size="28" font-weight="700" fill="#173F4D"><tspan x="650" dy="0">LOSO</tspan></text>
+<text x="875" y="1095" text-anchor="middle" font-size="28" font-weight="600" fill="#5D7785"><tspan x="875" dy="0">train</tspan></text>
+<text x="1055" y="1095" text-anchor="middle" font-size="28" font-weight="600" fill="#5D7785"><tspan x="1055" dy="0">test</tspan></text>
+<rect x="785" y="1134" width="30" height="30" rx="4" fill="#5A98B0" stroke="#466A77" stroke-width="1"/>
+<rect x="965" y="1134" width="30" height="30" rx="4" fill="#5A98B0" stroke="#466A77" stroke-width="1"/>
+<rect x="824" y="1134" width="30" height="30" rx="4" fill="#E6A14C" stroke="#466A77" stroke-width="1"/>
+<rect x="1004" y="1134" width="30" height="30" rx="4" fill="#E6A14C" stroke="#466A77" stroke-width="1"/>
+<rect x="863" y="1134" width="30" height="30" rx="4" fill="#7AA77E" stroke="#466A77" stroke-width="1"/>
+<rect x="1043" y="1134" width="30" height="30" rx="4" fill="#7AA77E" stroke="#466A77" stroke-width="1"/>
+<rect x="902" y="1134" width="30" height="30" rx="4" fill="#9B78A6" stroke="#466A77" stroke-width="1"/>
+<rect x="1082" y="1134" width="30" height="30" rx="4" fill="#9B78A6" stroke="#466A77" stroke-width="1"/>
+<rect x="941" y="1134" width="30" height="30" rx="4" fill="#C87864" stroke="#466A77" stroke-width="1"/>
+<rect x="1121" y="1134" width="30" height="30" rx="4" fill="#C87864" stroke="#466A77" stroke-width="1"/>
+<rect x="785" y="1259" width="36" height="30" rx="4" fill="#5A98B0" stroke="#466A77" stroke-width="1"/>
+<rect x="833" y="1259" width="36" height="30" rx="4" fill="#E6A14C" stroke="#466A77" stroke-width="1"/>
+<rect x="881" y="1259" width="36" height="30" rx="4" fill="#7AA77E" stroke="#466A77" stroke-width="1"/>
+<rect x="1000" y="1259" width="36" height="30" rx="4" fill="#9B78A6" stroke="#466A77" stroke-width="1"/>
+<rect x="1048" y="1259" width="36" height="30" rx="4" fill="#C87864" stroke="#466A77" stroke-width="1"/>
+<rect x="780" y="1384" width="36" height="30" rx="4" fill="#5A98B0" stroke="#466A77" stroke-width="1"/>
+<rect x="822" y="1384" width="36" height="30" rx="4" fill="#E6A14C" stroke="#466A77" stroke-width="1"/>
+<rect x="864" y="1384" width="36" height="30" rx="4" fill="#7AA77E" stroke="#466A77" stroke-width="1"/>
+<rect x="906" y="1384" width="36" height="30" rx="4" fill="#9B78A6" stroke="#466A77" stroke-width="1"/>
+<rect x="1020" y="1384" width="40" height="30" rx="4" fill="#C87864" stroke="#466A77" stroke-width="1"/>
+<circle cx="1225" cy="1118" r="31" fill="#E4F1F5" stroke="#5D8090" stroke-width="2"/>
+<text x="1225" y="1128" text-anchor="middle" font-size="28" font-weight="700" fill="#183C4A"><tspan x="1225" dy="0">pᵢ</tspan></text>
+<line x1="1257" y1="1118" x2="1278" y2="1118" stroke="#78909C" stroke-width="2.5"/>
+<circle cx="1310" cy="1118" r="31" fill="#EAF0E8" stroke="#5D8090" stroke-width="2"/>
+<text x="1310" y="1128" text-anchor="middle" font-size="28" font-weight="700" fill="#183C4A"><tspan x="1310" dy="0">BS</tspan></text>
+<line x1="1342" y1="1118" x2="1363" y2="1118" stroke="#78909C" stroke-width="2.5"/>
+<circle cx="1395" cy="1118" r="31" fill="#F6EFE5" stroke="#5D8090" stroke-width="2"/>
+<text x="1395" y="1128" text-anchor="middle" font-size="28" font-weight="700" fill="#183C4A"><tspan x="1395" dy="0">π</tspan></text>
+<line x1="1427" y1="1118" x2="1448" y2="1118" stroke="#78909C" stroke-width="2.5"/>
+<circle cx="1480" cy="1118" r="31" fill="#E4F1F5" stroke="#5D8090" stroke-width="2"/>
+<text x="1480" y="1128" text-anchor="middle" font-size="28" font-weight="700" fill="#183C4A"><tspan x="1480" dy="0">BSS</tspan></text>
+<text x="1110" y="1245" text-anchor="start" font-size="28" font-weight="700" fill="#314954"><tspan x="1110" dy="0">Random</tspan></text>
+<text x="1450" y="1245" text-anchor="middle" font-size="28" font-weight="700" fill="#4C91AE"><tspan x="1450" dy="0">LR +0.089</tspan></text>
+<text x="1595" y="1245" text-anchor="middle" font-size="28" font-weight="700" fill="#4C91AE"><tspan x="1595" dy="0">RF +0.146</tspan></text>
+<line x1="1110" y1="1269" x2="1640" y2="1269" stroke="#D8E3E7" stroke-width="1"/>
+<text x="1110" y="1317" text-anchor="start" font-size="28" font-weight="700" fill="#314954"><tspan x="1110" dy="0">Study-grouped</tspan></text>
+<text x="1450" y="1317" text-anchor="middle" font-size="28" font-weight="700" fill="#BE6A22"><tspan x="1450" dy="0">LR −0.212</tspan></text>
+<text x="1595" y="1317" text-anchor="middle" font-size="28" font-weight="700" fill="#BE6A22"><tspan x="1595" dy="0">RF −0.079</tspan></text>
+<line x1="1110" y1="1341" x2="1640" y2="1341" stroke="#D8E3E7" stroke-width="1"/>
+<text x="1110" y="1389" text-anchor="start" font-size="28" font-weight="700" fill="#314954"><tspan x="1110" dy="0">LOSO</tspan></text>
+<text x="1450" y="1389" text-anchor="middle" font-size="28" font-weight="700" fill="#81586D"><tspan x="1450" dy="0">LR −0.242</tspan></text>
+<text x="1595" y="1389" text-anchor="middle" font-size="28" font-weight="700" fill="#81586D"><tspan x="1595" dy="0">RF −0.097</tspan></text>
+<line x1="1110" y1="1413" x2="1640" y2="1413" stroke="#D8E3E7" stroke-width="1"/>
 </svg>

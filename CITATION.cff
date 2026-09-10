@@ -1,8 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this software archive, please cite the associated manuscript and the archived release."
+authors:
+  - family-names: "Monreal-Hernández"
+    given-names: "Andrés"
+    orcid: "https://orcid.org/0009-0009-1207-8597"
+    affiliation: "Universidad Estatal de Sonora"
 title: "Study-aware validation of cross-study transportability in protein-corona detection models"
 type: software
-version: 1.0.0
+version: 1.0.1
 license: MIT
 abstract: "Public-safe MIT-licensed software, aggregate results, figures, and provenance for a frozen study-aware validation benchmark. Project-authored documentation and figures are separately CC BY-NC 4.0."
 keywords:
@@ -11,4 +16,3 @@ keywords:
   - nanoinformatics
   - reproducibility
 repository-code: "https://github.com/sircalch/protein-corona-study-aware-validation"
-note: "Creator metadata is intentionally omitted pending project-specific author confirmation."

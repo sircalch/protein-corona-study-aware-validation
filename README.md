@@ -29,4 +29,5 @@ The public release does **not** claim one-command, end-to-end rerunning of cohor
 
 ## License and citation
 
-Project-authored software is released under the [MIT License](LICENSE). Project-authored documentation and figures are available under [CC BY-NC 4.0](LICENSE-DOCUMENTATION-CC-BY-NC-4.0.md). See `LICENSES.md` and `CITATION.cff`. Creator metadata is intentionally omitted until author information is confirmed for this specific manuscript.
+Project-authored software is released under the [MIT License](LICENSE). Project-authored documentation and figures are available under [CC BY-NC 4.0](LICENSE-DOCUMENTATION-CC-BY-NC-4.0.md). See `LICENSES.md` and `CITATION.cff`. Citation metadata identifies the release creator. See `CITATION.cff` and `.zenodo.json`.
+
